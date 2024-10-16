@@ -1,0 +1,16 @@
+C:\Users\tjoto\OneDrive\Desktop\CS 3500\Database Test App\Database Test App\bin\Debug\net8.0-windows\Database Test App.exe
+C:\Users\tjoto\OneDrive\Desktop\CS 3500\Database Test App\Database Test App\bin\Debug\net8.0-windows\Database Test App.deps.json
+C:\Users\tjoto\OneDrive\Desktop\CS 3500\Database Test App\Database Test App\bin\Debug\net8.0-windows\Database Test App.runtimeconfig.json
+C:\Users\tjoto\OneDrive\Desktop\CS 3500\Database Test App\Database Test App\bin\Debug\net8.0-windows\Database Test App.dll
+C:\Users\tjoto\OneDrive\Desktop\CS 3500\Database Test App\Database Test App\bin\Debug\net8.0-windows\Database Test App.pdb
+C:\Users\tjoto\OneDrive\Desktop\CS 3500\Database Test App\Database Test App\obj\Debug\net8.0-windows\Database_Test_App.Form1.resources
+C:\Users\tjoto\OneDrive\Desktop\CS 3500\Database Test App\Database Test App\obj\Debug\net8.0-windows\Database Test App.csproj.GenerateResource.cache
+C:\Users\tjoto\OneDrive\Desktop\CS 3500\Database Test App\Database Test App\obj\Debug\net8.0-windows\Database Test App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tjoto\OneDrive\Desktop\CS 3500\Database Test App\Database Test App\obj\Debug\net8.0-windows\Database Test App.AssemblyInfoInputs.cache
+C:\Users\tjoto\OneDrive\Desktop\CS 3500\Database Test App\Database Test App\obj\Debug\net8.0-windows\Database Test App.AssemblyInfo.cs
+C:\Users\tjoto\OneDrive\Desktop\CS 3500\Database Test App\Database Test App\obj\Debug\net8.0-windows\Database Test App.csproj.CoreCompileInputs.cache
+C:\Users\tjoto\OneDrive\Desktop\CS 3500\Database Test App\Database Test App\obj\Debug\net8.0-windows\Database Test App.dll
+C:\Users\tjoto\OneDrive\Desktop\CS 3500\Database Test App\Database Test App\obj\Debug\net8.0-windows\refint\Database Test App.dll
+C:\Users\tjoto\OneDrive\Desktop\CS 3500\Database Test App\Database Test App\obj\Debug\net8.0-windows\Database Test App.pdb
+C:\Users\tjoto\OneDrive\Desktop\CS 3500\Database Test App\Database Test App\obj\Debug\net8.0-windows\Database Test App.genruntimeconfig.cache
+C:\Users\tjoto\OneDrive\Desktop\CS 3500\Database Test App\Database Test App\obj\Debug\net8.0-windows\ref\Database Test App.dll
